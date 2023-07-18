@@ -8,5 +8,4 @@ for (let i = 0; i < 100; i++) {
 }
 </script>
 
-<style scoped lang="scss">
-</style>
+<style scoped lang="scss"></style>
