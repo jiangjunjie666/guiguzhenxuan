@@ -5,7 +5,7 @@ createApp(App).mount('#app')
 
 const fun = () => {
 
-  console.log(111);
+  console.log(111)
 
 }
 fun()
